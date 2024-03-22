@@ -481,6 +481,12 @@ button:hover {
 .service-item .eighteenth-service-icon{
     background-image: url(../images/assembly\ logo.png);
 }
+.service-item .nineteenth-service-icon{
+    background-image: url(../images/flutter.png);
+}
+.service-item .twentith-service-icon{
+    background-image: url(../images/dart.png);
+}
 
 /* My Work */
 section.my-work .section-heading {
